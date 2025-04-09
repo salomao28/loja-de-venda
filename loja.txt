@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Materiais de Construção ao Melhor Preço - ObraFácil.pt">
+    <title>ObraFácil - Materiais de Construção</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; }
+        header { background-color: #2c3e50; color: #fff; padding: 20px; text-align: center; }
+        nav { background: #34495e; padding: 10px; text-align: center; }
+        nav a { color: #fff; margin: 0 15px; text-decoration: none; }
+        .hero { padding: 50px; text-align: center; background-color: #ecf0f1; }
+        .section { padding: 40px; }
+        .footer { background: #2c3e50; color: #fff; text-align: center; padding: 20px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>ObraFácil.pt</h1>
+    <p>Materiais de Construção ao Melhor Preço!</p>
+</header>
+
+<nav>
+    <a href="#produtos">Produtos</a>
+    <a href="#deck">Deck</a>
+    <a href="#blog">Blog</a>
+    <a href="#contacto">Contacto</a>
+</nav>
+
+<section class="hero">
+    <h2>Tudo para a tua Obra!</h2>
+    <p>Materiais de qualidade com os melhores preços de Portugal.</p>
+    <a href="#contacto">Pedir Orçamento</a>
+</section>
+
+<section id="produtos" class="section">
+    <h2>Produtos em Destaque</h2>
+    <ul>
+        <li>Cimento | Tijolos | Areia</li>
+        <li>Tintas | Ferramentas | Isolamentos</li>
+        <li>Materiais Diversos para Construção</li>
+    </ul>
+</section>
+
+<section id="deck" class="section">
+    <h2>Deck e Pavimentos Exteriores</h2>
+    <p>Deck de Madeira Natural e Compósito para exterior.</p>
+    <ul>
+        <li>Deck para Piscinas</li>
+        <li>Deck para Jardins e Terraços</li>
+        <li>Serviço de Instalação Disponível</li>
+    </ul>
+</section>
+
+<section id="blog" class="section">
+    <h2>Blog de Dicas</h2>
+    <p>Em breve: Artigos com dicas de construção, poupança e manutenção.</p>
+</section>
+
+<section id="contacto" class="section">
+    <h2>Contacto e Orçamentos</h2>
+    <p>Email: contato@obrafacil.pt</p>
+    <p>Telefone: +351 912 345 678</p>
+</section>
+
+<footer class="footer">
+    <p>&copy; 2025 ObraFácil.pt - Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
